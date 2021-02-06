@@ -1,7 +1,7 @@
 /*
- *1304A. Two Rabbits
+ * 1304A. Two Rabbits
  *
- *Completed in 31 ms 0 kb
+ * Completed in 31 ms 0 kb
  */
 
 #include <iostream>
