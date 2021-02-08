@@ -1,5 +1,5 @@
 # 1339A Filling Diamonds
-# Completed in 31 ms
+# Completed in 31 ms 0 kb
 
 t = int(input())
  
