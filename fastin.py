@@ -56,3 +56,9 @@ import sys
 def get_str():
   return sys.stdin.readline().strip()
 str = get_str()
+
+# File input
+# "input.txt" 
+
+file = open("input.txt", "r")
+# file.readline().split()
