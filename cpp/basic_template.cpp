@@ -7,7 +7,7 @@
 #include <map>
 #include <iomanip>
 #define INF 2147483647
-#define LINF 9223372036854775807
+#define LLINF 9223372036854775807
 #define pii pair<int, int>
 #define ll long long
 #define pb push_back
