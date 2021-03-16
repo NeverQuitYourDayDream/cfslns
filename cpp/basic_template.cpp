@@ -13,3 +13,8 @@
 #define pb push_back
 #define newl '\n'
 using namespace std;
+
+int main() {
+    cout << "Hello, world!" << newl;
+    return 0;
+}
